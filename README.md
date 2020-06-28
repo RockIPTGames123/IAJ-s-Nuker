@@ -4,6 +4,8 @@ Made for EDUCATIONAL purposes only!
 
 I am NOT responsable for any trouble you get in for using this!
 
+You CAN modify this but should you choose to upload it anywhere (free or paid) CONTACT ME FIRST. My Discord is IAJ#7648
+
 Defult Command Prefix:
 n/
 
